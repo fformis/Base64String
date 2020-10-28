@@ -1,0 +1,13 @@
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.exe
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.deps.json
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.runtimeconfig.json
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.runtimeconfig.dev.json
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.dll
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\bin\Debug\netcoreapp3.1\Base64String.pdb
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.csprojAssemblyReference.cache
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.AssemblyInfoInputs.cache
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.AssemblyInfo.cs
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.csproj.CoreCompileInputs.cache
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.dll
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.pdb
+C:\Users\flavio.formis\source\repos\Base64String\Base64String\obj\Debug\netcoreapp3.1\Base64String.genruntimeconfig.cache
